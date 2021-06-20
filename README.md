@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harjotcyber007&label=Profile%20views&color=0e75b6&style=flat" alt="harjotcyber007" /> </p>
 
+<img aligh="right" alt="coding" width="400" src="https://dribbble.com/shots/15526868-Office-dude?utm_source=Clipboard_Shot&utm_campaign=dinosandteacups&utm_content=Office%20dude&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=dinosandteacups&utm_content=Office%20dude&utm_medium=Social_Share"</img>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harjotcyber007" alt="harjotcyber007" /></a> </p>
 
 - 🔭 I’m currently working on [Highly Scalable Hotel Management System.](https://www.linkedin.com/.in/xxharjot3496xx)
