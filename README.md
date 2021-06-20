@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 Future Developers, I'm Harjot Singh</h1>
-<h3 align="center">A passionate frontend and aspiring Full-Stack Develope3wr from Punjab, India who love to explore different Tech-Stacks and Technologies. I pursuing BCA final year from DAV College. Currently I'm working on ASP.NET and C# using .net (4.0) framework.</h3>
+<h3 align="center">A passionate frontend and aspiring Full-Stack Developer from Punjab, India who love to explore different Tech-Stacks and Technologies. I pursuing BCA final year from DAV College. Currently I'm working on ASP.NET and C# using .net (4.0) framework.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harjotcyber007&label=Profile%20views&color=0e75b6&style=flat" alt="harjotcyber007" /> </p>
 
