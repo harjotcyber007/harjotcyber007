@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 Future Developers, I'm Harjot Singh</h1>
-<h3 align="center">A passionate frontend and aspiring Full-Stack Developer from Punjab, India working as a analyst in Tata Consultancy Services .I love to explore different Tech-Stacks and Technologies. I completed BCA from DAV College. Having sound knowledge in working .net , Php , SQL and Currently working on react js and related framework.</h3>
+<h3 align="center">A passionate frontend and aspiring Full-Stack Developer from Punjab, India working as an analyst in Tata Consultancy Services .I love to explore different Tech-Stacks and Technologies. I completed BCA in 2021 and currently opted or masters. Having sound knowledge in working java, Php , SQL and Currently working on react js and related framework.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harjotcyber007&label=Profile%20views&color=0e75b6&style=flat" alt="harjotcyber007" /> </p>
 
@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harjotcyber007" alt="harjotcyber007" /></a> </p>
 
-- 🔭 I’m currently working on [Highly Scalable Hotel Management System.](https://www.linkedin.com/.in/xxharjot3496xx)
+- 🔭 I’m currently working on [IOT Based Project.](https://www.linkedin.com/.in/xxharjot3496xx)
 
-- 🌱 I’m currently learning **ASP.net , Angular , Node.js**
+- 🌱 I’m currently learning **cloud computing, mern stack, web developement**
 
-- 👯 I’m looking to collaborate on [E-Commerce Website using PHP and C#.](https://www.linkedin.com/.in/xxharjot3496xx)
+- 👯 I’m looking to collaborate on [E-Commerce Website using MERN stack.](https://www.linkedin.com/.in/xxharjot3496xx)
 
 - 🤝 I’m looking for help with [developing basic full stack project to understand working of technologies.](https://www.linkedin.com/.in/xxharjot3496xx)
 
@@ -19,7 +19,7 @@
 
 - 📝 My other interest : [Volunteering to different tech communities * Financial Education * Engage and Communicate with different people * Blogger *](Volunteering to different tech communities * Financial Education * Engage and Communicate with different people * Blogger *)
 
-- 💬 Resources from I learn : **YOUTUBE , UDEMY , W3SCHOOL , GEEK FOR GEEKS**
+- 💬 Resources from I learn : **YOUTUBE , Pepcoding , W3SCHOOL , GEEK FOR GEEKS**
 
 - 📫 You can reach me at : **hb9443564@gmail.com**
 
